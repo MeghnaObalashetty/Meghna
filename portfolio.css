@@ -63,3 +63,7 @@ body {
 span {
     font-style: italic;
 }
+
+.bold {
+    font-weight: 500;
+}
